@@ -6,10 +6,10 @@ Within this real-time chat application, the chat app used Node JS, websocket API
 Dowload the Node Js and start to install it.
 First, in the terminal need to install npm yarn before proceding.
 
-  1. node -v
-  2. npm -v
+  1. node -v    #This used to check if your NodeJS has been installed successfully 
+  2. npm -v     
   3. npm install -g yarn
-  4. cd project-folder
+  4. cd project-folder    #create a folder for the chat application
   5. yarn init -y
   6. yarn add express socket.io
   7. yarn add --dev nodemon     ###not neccessary to have nodemon
